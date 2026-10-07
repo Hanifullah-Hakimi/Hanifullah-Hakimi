@@ -29,7 +29,7 @@ I am particularly interested in developing toward a Security Operations Center (
 | Windows Server Administration | [Active Directory Home Lab](https://github.com/Hanifullah-Hakimi/Active-Directory-Home-Lab/blob/main/README.md) |
 | AWS IAM & Identity Management | [AWS Security Lab](https://github.com/Hanifullah-Hakimi/AWS-Security-Lab/blob/main/README.md) |
 | AWS Networking | [AWS Security Lab](https://github.com/Hanifullah-Hakimi/AWS-Security-Lab/blob/main/README.md) |
-| Linux Administration | [Linux & Python Lab](#) |
+| Linux Administration | [Linux & Python Lab](https://github.com/Hanifullah-Hakimi/Linux-Python-Lab/blob/main/README.md) |
 | Network Troubleshooting | [Network Troubleshooting Lab](#) |
 | Git & GitHub | Cybersecurity Portfolio |
 
@@ -130,7 +130,7 @@ Hands-on AWS environment focused on:
 - Network ACLs
 - Cloud security fundamentals
 
-### Linux & Python Lab
+[Linux & Python Lab](https://github.com/Hanifullah-Hakimi/Linux-Python-Lab/blob/main/README.md)
 
 Hands-on practice with:
 

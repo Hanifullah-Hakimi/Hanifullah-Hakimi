@@ -27,8 +27,8 @@ I am particularly interested in developing toward a Security Operations Center (
 | Incident Response | [SOC Analyst Lab](https://github.com/Hanifullah-Hakimi/SOC-Analyst-Lab/blob/main/README.md) |
 | Active Directory Administration | [Active Directory Home Lab](https://github.com/Hanifullah-Hakimi/Active-Directory-Home-Lab/blob/main/README.md) |
 | Windows Server Administration | [Active Directory Home Lab](https://github.com/Hanifullah-Hakimi/Active-Directory-Home-Lab/blob/main/README.md) |
-| AWS IAM & Identity Management | [AWS Security Lab](#) |
-| AWS Networking | [AWS Security Lab](#) |
+| AWS IAM & Identity Management | [AWS Security Lab](https://github.com/Hanifullah-Hakimi/AWS-Security-Lab/blob/main/README.md) |
+| AWS Networking | [AWS Security Lab](https://github.com/Hanifullah-Hakimi/AWS-Security-Lab/blob/main/README.md) |
 | Linux Administration | [Linux & Python Lab](#) |
 | Network Troubleshooting | [Network Troubleshooting Lab](#) |
 | Git & GitHub | Cybersecurity Portfolio |
@@ -118,7 +118,7 @@ Hands-on Windows Server environment focused on:
 - DHCP
 - File sharing and permissions
 
-### AWS Security Lab
+[AWS Security Lab](https://github.com/Hanifullah-Hakimi/AWS-Security-Lab/blob/main/README.md)
 
 Hands-on AWS environment focused on:
 

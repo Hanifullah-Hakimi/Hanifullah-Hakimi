@@ -20,13 +20,13 @@ I am particularly interested in developing toward a Security Operations Center (
 
 | Skill | Associated Project |
 |---|---|
-| SIEM & Log Analysis | [SOC Analyst Lab](#) |
-| Splunk | [SOC Analyst Lab](#) |
-| Windows Event Log Analysis | [SOC Analyst Lab](#) |
-| Linux Log Analysis | [SOC Analyst Lab](#) |
-| Incident Response | [SOC Analyst Lab](#) |
-| Active Directory Administration | [Active Directory Home Lab](#) |
-| Windows Server Administration | [Active Directory Home Lab](#) |
+| SIEM & Log Analysis | [SOC Analyst Lab](https://github.com/Hanifullah-Hakimi/SOC-Analyst-Lab/blob/main/README.md) |
+| Splunk | [SOC Analyst Lab](https://github.com/Hanifullah-Hakimi/SOC-Analyst-Lab/blob/main/README.md) |
+| Windows Event Log Analysis | [SOC Analyst Lab](https://github.com/Hanifullah-Hakimi/SOC-Analyst-Lab/blob/main/README.md) |
+| Linux Log Analysis | [SOC Analyst Lab](https://github.com/Hanifullah-Hakimi/SOC-Analyst-Lab/blob/main/README.md) |
+| Incident Response | [SOC Analyst Lab](https://github.com/Hanifullah-Hakimi/SOC-Analyst-Lab/blob/main/README.md) |
+| Active Directory Administration | [Active Directory Home Lab](https://github.com/Hanifullah-Hakimi/Active-Directory-Home-Lab/blob/main/README.md) |
+| Windows Server Administration | [Active Directory Home Lab](https://github.com/Hanifullah-Hakimi/Active-Directory-Home-Lab/blob/main/README.md) |
 | AWS IAM & Identity Management | [AWS Security Lab](#) |
 | AWS Networking | [AWS Security Lab](#) |
 | Linux Administration | [Linux & Python Lab](#) |
@@ -94,7 +94,7 @@ I am particularly interested in developing toward a Security Operations Center (
 
 ## Projects
 
-### SOC Analyst Lab
+[SOC Analyst Lab](https://github.com/Hanifullah-Hakimi/SOC-Analyst-Lab/blob/main/README.md)
 
 Hands-on SOC training focused on:
 
@@ -106,7 +106,7 @@ Hands-on SOC training focused on:
 - Security monitoring
 - SOC investigation
 
-### Active Directory Home Lab
+ [Active Directory Home Lab](https://github.com/Hanifullah-Hakimi/Active-Directory-Home-Lab/blob/main/README.md)
 
 Hands-on Windows Server environment focused on:
 
